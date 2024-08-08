@@ -1,4 +1,4 @@
-## Oi! meu nome é Henrique tudo bem ? 
+## Oi! meu nome é Henrique tudo bem ?  🚀
 
 Sou um entusiasta apaixonado por novas tecnologias, constantemente empenhado em aprimorar e desenvolver minhas habilidades, buscando desenvolver e integrar soluções inovadoras e tecnologicas para que desenvolva a eficiencia e otimização em meu ambiente de trabalho.
 ##
