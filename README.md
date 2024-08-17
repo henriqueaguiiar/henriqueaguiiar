@@ -4,6 +4,8 @@ Sou um entusiasta apaixonado por novas tecnologias, constantemente empenhado em 
 ##
 ![Henrique Aguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueaguiiar&show_icons=true&theme=radical)
 ##
+
+<h2>Estudando as Tecnologias</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
