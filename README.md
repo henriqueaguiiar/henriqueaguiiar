@@ -1,7 +1,7 @@
 ### Henrique Aguiar 
 
 - 👩🏻‍💻 Backend Software Developer.
-- ♨️ Enthusiast of Programming and Technologies 
+- ♨️ Enthusiast of Programming and new Technologies 
 
 ##
    
